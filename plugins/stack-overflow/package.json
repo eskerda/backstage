@@ -50,7 +50,7 @@
     "@testing-library/user-event": "^13.1.8",
     "@types/jest": "^26.0.7",
     "@types/node": "^14.14.32",
-    "msw": "^0.35.0"
+    "msw": "^0.39.2"
   },
   "files": [
     "dist",
